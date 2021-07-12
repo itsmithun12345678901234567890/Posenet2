@@ -1,0 +1,18 @@
+h3
+{
+    font-size:25px !important;
+    animation-name: Tag ;
+    animation-duration: 3s;
+    animation-iteration-count:infinite ;
+}
+
+.btn-success:hover{
+    background-color:red;
+}
+
+canvas{
+    animation-name: Color;
+    animation-duration:2s;
+    animation-iteration-count: infinite;
+}
+
